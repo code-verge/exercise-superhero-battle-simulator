@@ -44,6 +44,7 @@ Create this file, then tackle the tasks below, writing your heroic solutions wit
 
 Ready to bring superheroes to life with code? Let’s power up and begin!
 
+
 ### Task 1: Create the Base Superhero Class
 
 Create a `class` called `Superhero` with the following specifications:
