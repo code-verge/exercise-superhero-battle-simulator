@@ -28,7 +28,7 @@ It's time to see which hero reigns supreme in your virtual superhero universe!
 
 ## Getting Started
 
-1. [Fork this repository](https://github.com/code-verge/exercise-practise-asynchronous-javascript-with-submaker)
+1. Fork the repository
 2. Clone the repository to your computer
 3. Open the repository in VS Code
 4. Start the Live Server in VS Code
